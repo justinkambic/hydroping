@@ -1,0 +1,9 @@
+# Identify the ping the sensor is connected to
+gpio: 16
+
+# Specify a path to write the log data to
+log.path: '/home/pi/git/hydroping/data/temp_hum.log'
+
+# Output to stdout
+log.stdout: true
+

@@ -1,0 +1,8 @@
+activate/
+bin/
+data/
+env/
+include/
+__pycache__/
+pyenv.cfg
+
